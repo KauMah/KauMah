@@ -9,6 +9,7 @@
 <ul>
   <li><a href="https://github.com/KauMah/GithubAnalyzer">Github Analyzer</a> - A Rust tool that clones all public repositories for a given user and scrapes data from each commit, concurrently cloning and deleting repos.</li>
   <li><a href="https://github.com/KauMah/ShuttleTracker">Shuttle Tracker</a> - A secure web based shuttle tracking application with authentication, identity verification, live location updates, and a clean responsive design</li>
+  <li>Top Secret: Language Learning Application </li>
 </ul>
 
 <!-- Currently Learning -->
