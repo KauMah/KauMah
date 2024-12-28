@@ -9,7 +9,6 @@
 <ul>
   <li><a href="https://github.com/KauMah/GithubAnalyzer">Github Analyzer</a> - A Rust tool that clones all public repositories for a given user and scrapes data from each commit, concurrently cloning and deleting repos.</li>
   <li>A tool to help people stick with their new years resolutions</li>
-  <li>Top Secret: Language Learning Application </li>
 </ul>
 
 <!-- Currently Learning -->
