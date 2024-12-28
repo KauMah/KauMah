@@ -14,7 +14,7 @@
 <!-- Currently Learning -->
 <h2>🌱 I’m currently learning:</h2>
 <ul>
-  <li><a href="https://www.rust-lang.org/">Rust</a> - A systems programming language that can do so much more. I love its syntactical sugar, but it's forcing me to dig deeper to be able to properly use it all</li>
+  <li><a href="">Go</a> - I'm transitioning to this for all projects that don't require a front end</li>
   <li><a href="https://developer.apple.com/swift/">Swift</a> - I'm learning swift so that I can leverage the CoreMIDI API in iOS to create a virtual MIDI controller with less latency than the existing wireless options.</li>
 </ul>
 
