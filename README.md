@@ -7,15 +7,16 @@
 <!-- Current Projects -->
 <h2>🔭 I’m currently working on:</h2>
 <ul>
-  <li><a href="https://github.com/KauMah/GithubAnalyzer">Github Analyzer</a> - A Rust tool that clones all public repositories for a given user and scrapes data from each commit, concurrently cloning and deleting repos.</li>
-  <li>A tool to help people stick with their new years resolutions</li>
+  <li><a href="https://github.com/KauMah/GithubAnalyzer">Github Analyzer</a> and <a href="https://github.com/KauMah/github-analyzer-panel">Github Analyzer Panel</a> - A Rust tool that clones all public repositories for a given user and scrapes data from each commit, concurrently cloning and deleting repos with a Nextjs front end to help provide some color on what engineer actually do</li>
+  <li>Lineup - a beli like mobile application built with React Native and a Typescript backend to help concert goers and ravers log shows and rate/rank them socially</li>
+  <li>An audio based approach to measuring quality of sleep by measuring how long I snore for to help me isolate variables that might lead to worse sleep apnea symptoms</li>
 </ul>
 
 <!-- Currently Learning -->
 <h2>🌱 I’m currently learning:</h2>
 <ul>
   <li><a href="">Go</a> - I'm transitioning to this for all projects that don't require a front end</li>
-  <li><a href="https://developer.apple.com/swift/">Swift</a> - I'm learning swift so that I can leverage the CoreMIDI API in iOS to create a virtual MIDI controller with less latency than the existing wireless options.</li>
+  <li> Rust - I like it when things work fast and don't segfault all the time - this is kind of what I wish C++ was when I was learning that</li>
 </ul>
 
 <!-- Contact Information -->
@@ -23,7 +24,7 @@
 <ul>
   <li>Email: <a href="mailto:kaushik.mahadevan@gmail.com">kaushik.mahadevan@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/kaushikmahadevan/">My LinkedIn Profile</a></li>
-  <li>Twitter: <a href="https://www.twitter.com/kshkmas/">@kshkmas</a></li>
+  <li>Twitter: <a href="https://www.twitter.com/kaushikshikshik/">@kaushikshikshik</a></li>
 </ul>
 
 <!-- Fun Fact -->
