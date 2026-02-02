@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <!-- Introduction -->
-<p align="center">My name is Kaushik and I'm a Full Stack Engineer. I love using Typescript and the Node.js ecosystem to create performant and aesthetic applications as well as tools that improve my own quality of life. <p>
+<p align="center">My name is Kaushik and I'm a Full Stack Engineer. I love using Typescript and the Node.js ecosystem to create performant and aesthetic applications as well as tools that improve my own quality of life. I swear I still code for fun<p>
 
 <!-- Current Projects -->
 <h2>🔭 I’m currently working on:</h2>
