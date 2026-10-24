@@ -7,11 +7,33 @@
 <!-- Current Projects: everything between the markers is rewritten by the automation -->
 <h2>🔭 What I'm actually working on</h2>
 <!-- ACTIVE:START -->
-| | Project | What it is | Last active |
-|---|---|---|---|
-| 🏋️ | [**BetterLifter**](https://github.com/KauMah/betterlifter-site) 🔒 | An offline lifting tracker for iPhone, Mac and Apple Watch | this week |
-| ⛳ | **Swing Analyzer** 🔒 | Turning my golf swing into feedback I can actually use | 4 weeks ago |
-| 📡 | **esp-interface** 🔒 | Controlling small hardware gadgets from my phone | today |
+### 🏋️ [BetterLifter](https://github.com/KauMah/betterlifter-site) 🔒 <sub>· active this week</sub>
+An offline lifting tracker for iPhone, Mac and Apple Watch
+
+**Lately:** Better syncing of workout sets across devices<br>
+**Under the hood:** SwiftData stores workout states, App Intents drive cross-device updates, Live Activities show real-time progress on watch<br>
+**Built with:** `Swift` `SwiftUI` `SwiftData` `App Intents` `WidgetKit` `Image Playground` `Live Activities` `HealthKit` `Swift Charts`
+
+### ⛳ Swing Analyzer 🔒 <sub>· active this week</sub>
+Turning my golf swing into feedback I can actually use
+
+**Lately:** Measuring swings without a ball<br>
+**Under the hood:** Swift handles real-time frame tracking, while Metal manages sensor tilt and spatial mapping to align club with ball in 3D space<br>
+**Built with:** `Swift` `Python` `SwiftUI` `AVFoundation` `Vision` `Apple Watch` `RealityKit` `ARKit` `Metal`
+
+### 🛠️ [untangle](https://github.com/KauMah/untangle) <sub>· active this week</sub>
+Brain-dump task organizer for iPhone and Mac: splits rambling into a task tree, prioritizes Work and Personal separately, undo for everything, plus a CLI for Claude Code
+
+**Lately:** Better sync for notes and tasks<br>
+**Under the hood:** Swift handles local data flow while App Intents manage cross-app links, letting the system track changes without centralizing every step<br>
+**Built with:** `Swift` `SwiftUI` `App Intents` `AVFoundation` `Apple Foundation Models`
+
+### 📡 esp-interface 🔒 <sub>· active this week</sub>
+Controlling small hardware gadgets from my phone
+
+**Lately:** New firmware and app structure for direct control<br>
+**Under the hood:** Swift and C code talks to ESP-IDF via NimBLE, letting the phone command the device over air without wires, using real-time radio channels<br>
+**Built with:** `Swift` `C` `ESP-IDF` `SwiftUI` `Core Bluetooth` `FreeRTOS` `Network.framework` `NimBLE`
 
 <sub>🔒 = private repo. Updated automatically from my commit activity · last refreshed 2026-10-24</sub>
 <!-- ACTIVE:END -->
